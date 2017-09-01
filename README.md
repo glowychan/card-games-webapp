@@ -3,7 +3,7 @@
 Matchmaker is a web app that allows players to play various card games against other players. Players who choose a card game to play can find their "match" and compete against each other! Each player has their own profile with a scoreboard documenting their wins and losses.
 
 ## Screenshot
-!["Screenshot of application"](url)
+!["Screenshot of application"](https://github.com/glowychan/card-games-webapp/blob/master/newgame.png)
 
 ## Getting Started
 
